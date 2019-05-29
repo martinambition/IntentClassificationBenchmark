@@ -9,8 +9,8 @@ Chatbot must understand user's intention with very hight accuracy. Otherwise, "s
 4. Semhash, https://arxiv.org/abs/1810.07150
 ## Accuracy Result
 
-<img src="https://raw.githubusercontent.com/martinambition/IntentClassificationBenchmark/master/images/Acc.png" alt="alt text" width="150" >
-<img src="https://raw.githubusercontent.com/martinambition/IntentClassificationBenchmark/master/images/AccChart.png" alt="alt text" width="150" >
+<img src="https://raw.githubusercontent.com/martinambition/IntentClassificationBenchmark/master/images/Acc.png" alt="alt text" width="500" >
+<img src="https://raw.githubusercontent.com/martinambition/IntentClassificationBenchmark/master/images/AccChart.png" alt="alt text" width="500" >
 
 ## Conclusion
 Simple sum the word embeding achieve the best accuray in intention classification.
